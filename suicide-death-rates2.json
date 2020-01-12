@@ -1,0 +1,1262 @@
+[
+  {
+    "Code": "Canada",
+    "Year": 1990,
+    "Value": 13.20676251
+  },
+  {
+    "Code": "Canada",
+    "Year": 1991,
+    "Value": 13.18629556
+  },
+  {
+    "Code": "Canada",
+    "Year": 1992,
+    "Value": 13.27205325
+  },
+  {
+    "Code": "Canada",
+    "Year": 1993,
+    "Value": 13.49282248
+  },
+  {
+    "Code": "Canada",
+    "Year": 1994,
+    "Value": 13.37456174
+  },
+  {
+    "Code": "Canada",
+    "Year": 1995,
+    "Value": 13.42317987
+  },
+  {
+    "Code": "Canada",
+    "Year": 1996,
+    "Value": 13.29801254
+  },
+  {
+    "Code": "Canada",
+    "Year": 1997,
+    "Value": 13.06315251
+  },
+  {
+    "Code": "Canada",
+    "Year": 1998,
+    "Value": 12.84012505
+  },
+  {
+    "Code": "Canada",
+    "Year": 1999,
+    "Value": 12.7856231
+  },
+  {
+    "Code": "Canada",
+    "Year": 2000,
+    "Value": 12.26762518
+  },
+  {
+    "Code": "Canada",
+    "Year": 2001,
+    "Value": 12.09118414
+  },
+  {
+    "Code": "Canada",
+    "Year": 2002,
+    "Value": 11.86573873
+  },
+  {
+    "Code": "Canada",
+    "Year": 2003,
+    "Value": 11.86617672
+  },
+  {
+    "Code": "Canada",
+    "Year": 2004,
+    "Value": 11.57642082
+  },
+  {
+    "Code": "Canada",
+    "Year": 2005,
+    "Value": 11.58401597
+  },
+  {
+    "Code": "Canada",
+    "Year": 2006,
+    "Value": 11.20085988
+  },
+  {
+    "Code": "Canada",
+    "Year": 2007,
+    "Value": 11.23334988
+  },
+  {
+    "Code": "Canada",
+    "Year": 2008,
+    "Value": 11.20235688
+  },
+  {
+    "Code": "Canada",
+    "Year": 2009,
+    "Value": 11.13858343
+  },
+  {
+    "Code": "Canada",
+    "Year": 2010,
+    "Value": 10.9396813
+  },
+  {
+    "Code": "Canada",
+    "Year": 2011,
+    "Value": 10.66312604
+  },
+  {
+    "Code": "Canada",
+    "Year": 2012,
+    "Value": 10.91457943
+  },
+  {
+    "Code": "Canada",
+    "Year": 2013,
+    "Value": 10.82001543
+  },
+  {
+    "Code": "Canada",
+    "Year": 2014,
+    "Value": 11.16773412
+  },
+  {
+    "Code": "Canada",
+    "Year": 2015,
+    "Value": 11.31616846
+  },
+  {
+    "Code": "Canada",
+    "Year": 2016,
+    "Value": 11.06549341
+  },
+  {
+    "Code": "Canada",
+    "Year": 2017,
+    "Value": 10.90519483
+  },
+  {
+    "Code": "France",
+    "Year": 1990,
+    "Value": 21.27871541
+  },
+  {
+    "Code": "France",
+    "Year": 1991,
+    "Value": 21.04806837
+  },
+  {
+    "Code": "France",
+    "Year": 1992,
+    "Value": 20.80132222
+  },
+  {
+    "Code": "France",
+    "Year": 1993,
+    "Value": 20.76007129
+  },
+  {
+    "Code": "France",
+    "Year": 1994,
+    "Value": 20.10930917
+  },
+  {
+    "Code": "France",
+    "Year": 1995,
+    "Value": 19.67552638
+  },
+  {
+    "Code": "France",
+    "Year": 1996,
+    "Value": 19.40073576
+  },
+  {
+    "Code": "France",
+    "Year": 1997,
+    "Value": 18.97423158
+  },
+  {
+    "Code": "France",
+    "Year": 1998,
+    "Value": 18.76341113
+  },
+  {
+    "Code": "France",
+    "Year": 1999,
+    "Value": 18.1752937
+  },
+  {
+    "Code": "France",
+    "Year": 2000,
+    "Value": 17.50282928
+  },
+  {
+    "Code": "France",
+    "Year": 2001,
+    "Value": 17.34128692
+  },
+  {
+    "Code": "France",
+    "Year": 2002,
+    "Value": 17.10679446
+  },
+  {
+    "Code": "France",
+    "Year": 2003,
+    "Value": 16.78422094
+  },
+  {
+    "Code": "France",
+    "Year": 2004,
+    "Value": 15.8682082
+  },
+  {
+    "Code": "France",
+    "Year": 2005,
+    "Value": 15.77977932
+  },
+  {
+    "Code": "France",
+    "Year": 2006,
+    "Value": 15.48299375
+  },
+  {
+    "Code": "France",
+    "Year": 2007,
+    "Value": 15.18385954
+  },
+  {
+    "Code": "France",
+    "Year": 2008,
+    "Value": 15.16309701
+  },
+  {
+    "Code": "France",
+    "Year": 2009,
+    "Value": 15.3752249
+  },
+  {
+    "Code": "France",
+    "Year": 2010,
+    "Value": 15.24734125
+  },
+  {
+    "Code": "France",
+    "Year": 2011,
+    "Value": 14.9076949
+  },
+  {
+    "Code": "France",
+    "Year": 2012,
+    "Value": 14.27056531
+  },
+  {
+    "Code": "France",
+    "Year": 2013,
+    "Value": 13.77708556
+  },
+  {
+    "Code": "France",
+    "Year": 2014,
+    "Value": 13.19075864
+  },
+  {
+    "Code": "France",
+    "Year": 2015,
+    "Value": 12.98537878
+  },
+  {
+    "Code": "France",
+    "Year": 2016,
+    "Value": 12.52282907
+  },
+  {
+    "Code": "France",
+    "Year": 2017,
+    "Value": 12.40029797
+  },
+  {
+    "Code": "Germany",
+    "Year": 1990,
+    "Value": 13.68273961
+  },
+  {
+    "Code": "Germany",
+    "Year": 1991,
+    "Value": 13.88441939
+  },
+  {
+    "Code": "Germany",
+    "Year": 1992,
+    "Value": 13.58627497
+  },
+  {
+    "Code": "Germany",
+    "Year": 1993,
+    "Value": 13.45284931
+  },
+  {
+    "Code": "Germany",
+    "Year": 1994,
+    "Value": 13.40195865
+  },
+  {
+    "Code": "Germany",
+    "Year": 1995,
+    "Value": 13.51325849
+  },
+  {
+    "Code": "Germany",
+    "Year": 1996,
+    "Value": 13.39551288
+  },
+  {
+    "Code": "Germany",
+    "Year": 1997,
+    "Value": 13.14237309
+  },
+  {
+    "Code": "Germany",
+    "Year": 1998,
+    "Value": 12.62994194
+  },
+  {
+    "Code": "Germany",
+    "Year": 1999,
+    "Value": 12.34394715
+  },
+  {
+    "Code": "Germany",
+    "Year": 2000,
+    "Value": 12.16479168
+  },
+  {
+    "Code": "Germany",
+    "Year": 2001,
+    "Value": 11.84477166
+  },
+  {
+    "Code": "Germany",
+    "Year": 2002,
+    "Value": 11.70456456
+  },
+  {
+    "Code": "Germany",
+    "Year": 2003,
+    "Value": 11.57797777
+  },
+  {
+    "Code": "Germany",
+    "Year": 2004,
+    "Value": 10.98299306
+  },
+  {
+    "Code": "Germany",
+    "Year": 2005,
+    "Value": 10.61893562
+  },
+  {
+    "Code": "Germany",
+    "Year": 2006,
+    "Value": 10.23840363
+  },
+  {
+    "Code": "Germany",
+    "Year": 2007,
+    "Value": 10.05365296
+  },
+  {
+    "Code": "Germany",
+    "Year": 2008,
+    "Value": 9.989725195
+  },
+  {
+    "Code": "Germany",
+    "Year": 2009,
+    "Value": 10.01768403
+  },
+  {
+    "Code": "Germany",
+    "Year": 2010,
+    "Value": 9.994124216
+  },
+  {
+    "Code": "Germany",
+    "Year": 2011,
+    "Value": 9.847347404
+  },
+  {
+    "Code": "Germany",
+    "Year": 2012,
+    "Value": 9.605857176
+  },
+  {
+    "Code": "Germany",
+    "Year": 2013,
+    "Value": 9.662333897
+  },
+  {
+    "Code": "Germany",
+    "Year": 2014,
+    "Value": 9.415548572
+  },
+  {
+    "Code": "Germany",
+    "Year": 2015,
+    "Value": 9.692091233
+  },
+  {
+    "Code": "Germany",
+    "Year": 2016,
+    "Value": 9.903972522
+  },
+  {
+    "Code": "Germany",
+    "Year": 2017,
+    "Value": 9.917417031
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1990,
+    "Value": 98.83169616
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1991,
+    "Value": 96.08516412
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1992,
+    "Value": 93.23062931
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1993,
+    "Value": 91.07142832
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1994,
+    "Value": 89.22549608
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1995,
+    "Value": 87.05193756
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1996,
+    "Value": 85.70780258
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1997,
+    "Value": 84.58582055
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1998,
+    "Value": 82.86845561
+  },
+  {
+    "Code": "Greenland",
+    "Year": 1999,
+    "Value": 80.84243022
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2000,
+    "Value": 78.58067589
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2001,
+    "Value": 77.13132121
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2002,
+    "Value": 75.29432391
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2003,
+    "Value": 73.55686368
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2004,
+    "Value": 72.50488732
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2005,
+    "Value": 71.14640689
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2006,
+    "Value": 69.79954511
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2007,
+    "Value": 67.62227129
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2008,
+    "Value": 66.51679313
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2009,
+    "Value": 65.21526457
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2010,
+    "Value": 63.99491137
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2011,
+    "Value": 62.1087551
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2012,
+    "Value": 60.46276321
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2013,
+    "Value": 59.43176918
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2014,
+    "Value": 58.43569089
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2015,
+    "Value": 52.73603901
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2016,
+    "Value": 51.60994852
+  },
+  {
+    "Code": "Greenland",
+    "Year": 2017,
+    "Value": 51.06323868
+  },
+  {
+    "Code": "India",
+    "Year": 1990,
+    "Value": 20.20373436
+  },
+  {
+    "Code": "India",
+    "Year": 1991,
+    "Value": 20.2776083
+  },
+  {
+    "Code": "India",
+    "Year": 1992,
+    "Value": 20.35507563
+  },
+  {
+    "Code": "India",
+    "Year": 1993,
+    "Value": 19.7892849
+  },
+  {
+    "Code": "India",
+    "Year": 1994,
+    "Value": 19.44339413
+  },
+  {
+    "Code": "India",
+    "Year": 1995,
+    "Value": 19.14461705
+  },
+  {
+    "Code": "India",
+    "Year": 1996,
+    "Value": 18.85233219
+  },
+  {
+    "Code": "India",
+    "Year": 1997,
+    "Value": 19.44876965
+  },
+  {
+    "Code": "India",
+    "Year": 1998,
+    "Value": 19.53216478
+  },
+  {
+    "Code": "India",
+    "Year": 1999,
+    "Value": 19.80329975
+  },
+  {
+    "Code": "India",
+    "Year": 2000,
+    "Value": 19.724828
+  },
+  {
+    "Code": "India",
+    "Year": 2001,
+    "Value": 19.2070647
+  },
+  {
+    "Code": "India",
+    "Year": 2002,
+    "Value": 18.54118074
+  },
+  {
+    "Code": "India",
+    "Year": 2003,
+    "Value": 17.76862469
+  },
+  {
+    "Code": "India",
+    "Year": 2004,
+    "Value": 17.19984556
+  },
+  {
+    "Code": "India",
+    "Year": 2005,
+    "Value": 17.41189593
+  },
+  {
+    "Code": "India",
+    "Year": 2006,
+    "Value": 17.19528285
+  },
+  {
+    "Code": "India",
+    "Year": 2007,
+    "Value": 16.91934868
+  },
+  {
+    "Code": "India",
+    "Year": 2008,
+    "Value": 16.95242305
+  },
+  {
+    "Code": "India",
+    "Year": 2009,
+    "Value": 17.11830359
+  },
+  {
+    "Code": "India",
+    "Year": 2010,
+    "Value": 17.29007824
+  },
+  {
+    "Code": "India",
+    "Year": 2011,
+    "Value": 17.45907339
+  },
+  {
+    "Code": "India",
+    "Year": 2012,
+    "Value": 17.0414596
+  },
+  {
+    "Code": "India",
+    "Year": 2013,
+    "Value": 16.56142617
+  },
+  {
+    "Code": "India",
+    "Year": 2014,
+    "Value": 16.28727736
+  },
+  {
+    "Code": "India",
+    "Year": 2015,
+    "Value": 15.70522051
+  },
+  {
+    "Code": "India",
+    "Year": 2016,
+    "Value": 15.73827567
+  },
+  {
+    "Code": "India",
+    "Year": 2017,
+    "Value": 15.59784439
+  },
+  {
+    "Code": "Italy",
+    "Year": 1990,
+    "Value": 7.177505432
+  },
+  {
+    "Code": "Italy",
+    "Year": 1991,
+    "Value": 7.350859347
+  },
+  {
+    "Code": "Italy",
+    "Year": 1992,
+    "Value": 7.232128863
+  },
+  {
+    "Code": "Italy",
+    "Year": 1993,
+    "Value": 7.04146509
+  },
+  {
+    "Code": "Italy",
+    "Year": 1994,
+    "Value": 7.027074064
+  },
+  {
+    "Code": "Italy",
+    "Year": 1995,
+    "Value": 6.999247414
+  },
+  {
+    "Code": "Italy",
+    "Year": 1996,
+    "Value": 6.879931404
+  },
+  {
+    "Code": "Italy",
+    "Year": 1997,
+    "Value": 6.841294639
+  },
+  {
+    "Code": "Italy",
+    "Year": 1998,
+    "Value": 6.788698496
+  },
+  {
+    "Code": "Italy",
+    "Year": 1999,
+    "Value": 6.483504389
+  },
+  {
+    "Code": "Italy",
+    "Year": 2000,
+    "Value": 6.311437286
+  },
+  {
+    "Code": "Italy",
+    "Year": 2001,
+    "Value": 6.160840943
+  },
+  {
+    "Code": "Italy",
+    "Year": 2002,
+    "Value": 5.973006941
+  },
+  {
+    "Code": "Italy",
+    "Year": 2003,
+    "Value": 5.881354616
+  },
+  {
+    "Code": "Italy",
+    "Year": 2004,
+    "Value": 5.556545173
+  },
+  {
+    "Code": "Italy",
+    "Year": 2005,
+    "Value": 5.439551456
+  },
+  {
+    "Code": "Italy",
+    "Year": 2006,
+    "Value": 5.379974003
+  },
+  {
+    "Code": "Italy",
+    "Year": 2007,
+    "Value": 5.371278728
+  },
+  {
+    "Code": "Italy",
+    "Year": 2008,
+    "Value": 5.388443926
+  },
+  {
+    "Code": "Italy",
+    "Year": 2009,
+    "Value": 5.38357085
+  },
+  {
+    "Code": "Italy",
+    "Year": 2010,
+    "Value": 5.31055498
+  },
+  {
+    "Code": "Italy",
+    "Year": 2011,
+    "Value": 5.407013976
+  },
+  {
+    "Code": "Italy",
+    "Year": 2012,
+    "Value": 5.443136908
+  },
+  {
+    "Code": "Italy",
+    "Year": 2013,
+    "Value": 5.395752172
+  },
+  {
+    "Code": "Italy",
+    "Year": 2014,
+    "Value": 5.196653997
+  },
+  {
+    "Code": "Italy",
+    "Year": 2015,
+    "Value": 5.144601682
+  },
+  {
+    "Code": "Italy",
+    "Year": 2016,
+    "Value": 4.850424784
+  },
+  {
+    "Code": "Italy",
+    "Year": 2017,
+    "Value": 4.759584776
+  },
+  {
+    "Code": "Japan",
+    "Year": 1990,
+    "Value": 15.51772595
+  },
+  {
+    "Code": "Japan",
+    "Year": 1991,
+    "Value": 15.249336
+  },
+  {
+    "Code": "Japan",
+    "Year": 1992,
+    "Value": 15.16822121
+  },
+  {
+    "Code": "Japan",
+    "Year": 1993,
+    "Value": 15.02091437
+  },
+  {
+    "Code": "Japan",
+    "Year": 1994,
+    "Value": 14.82255121
+  },
+  {
+    "Code": "Japan",
+    "Year": 1995,
+    "Value": 15.21539654
+  },
+  {
+    "Code": "Japan",
+    "Year": 1996,
+    "Value": 15.255313
+  },
+  {
+    "Code": "Japan",
+    "Year": 1997,
+    "Value": 15.7529578
+  },
+  {
+    "Code": "Japan",
+    "Year": 1998,
+    "Value": 17.45572728
+  },
+  {
+    "Code": "Japan",
+    "Year": 1999,
+    "Value": 18.20560351
+  },
+  {
+    "Code": "Japan",
+    "Year": 2000,
+    "Value": 18.09275561
+  },
+  {
+    "Code": "Japan",
+    "Year": 2001,
+    "Value": 18.25106971
+  },
+  {
+    "Code": "Japan",
+    "Year": 2002,
+    "Value": 18.36405238
+  },
+  {
+    "Code": "Japan",
+    "Year": 2003,
+    "Value": 18.99229406
+  },
+  {
+    "Code": "Japan",
+    "Year": 2004,
+    "Value": 18.88961538
+  },
+  {
+    "Code": "Japan",
+    "Year": 2005,
+    "Value": 19.20129623
+  },
+  {
+    "Code": "Japan",
+    "Year": 2006,
+    "Value": 18.87269124
+  },
+  {
+    "Code": "Japan",
+    "Year": 2007,
+    "Value": 18.80590124
+  },
+  {
+    "Code": "Japan",
+    "Year": 2008,
+    "Value": 18.69993976
+  },
+  {
+    "Code": "Japan",
+    "Year": 2009,
+    "Value": 18.60491389
+  },
+  {
+    "Code": "Japan",
+    "Year": 2010,
+    "Value": 18.38078014
+  },
+  {
+    "Code": "Japan",
+    "Year": 2011,
+    "Value": 18.16469437
+  },
+  {
+    "Code": "Japan",
+    "Year": 2012,
+    "Value": 17.31651395
+  },
+  {
+    "Code": "Japan",
+    "Year": 2013,
+    "Value": 16.81711058
+  },
+  {
+    "Code": "Japan",
+    "Year": 2014,
+    "Value": 16.34572835
+  },
+  {
+    "Code": "Japan",
+    "Year": 2015,
+    "Value": 15.69282298
+  },
+  {
+    "Code": "Japan",
+    "Year": 2016,
+    "Value": 15.63227525
+  },
+  {
+    "Code": "Japan",
+    "Year": 2017,
+    "Value": 15.64795107
+  },
+  {
+    "Code": "Russia",
+    "Year": 1990,
+    "Value": 28.3210154
+  },
+  {
+    "Code": "Russia",
+    "Year": 1991,
+    "Value": 29.61750428
+  },
+  {
+    "Code": "Russia",
+    "Year": 1992,
+    "Value": 34.48857804
+  },
+  {
+    "Code": "Russia",
+    "Year": 1993,
+    "Value": 44.01726434
+  },
+  {
+    "Code": "Russia",
+    "Year": 1994,
+    "Value": 50.17633284
+  },
+  {
+    "Code": "Russia",
+    "Year": 1995,
+    "Value": 48.07255348
+  },
+  {
+    "Code": "Russia",
+    "Year": 1996,
+    "Value": 43.75022984
+  },
+  {
+    "Code": "Russia",
+    "Year": 1997,
+    "Value": 39.75737961
+  },
+  {
+    "Code": "Russia",
+    "Year": 1998,
+    "Value": 38.81936013
+  },
+  {
+    "Code": "Russia",
+    "Year": 1999,
+    "Value": 42.49159181
+  },
+  {
+    "Code": "Russia",
+    "Year": 2000,
+    "Value": 44.18017983
+  },
+  {
+    "Code": "Russia",
+    "Year": 2001,
+    "Value": 43.41586102
+  },
+  {
+    "Code": "Russia",
+    "Year": 2002,
+    "Value": 42.92428152
+  },
+  {
+    "Code": "Russia",
+    "Year": 2003,
+    "Value": 42.753197
+  },
+  {
+    "Code": "Russia",
+    "Year": 2004,
+    "Value": 41.84544795
+  },
+  {
+    "Code": "Russia",
+    "Year": 2005,
+    "Value": 43.24536356
+  },
+  {
+    "Code": "Russia",
+    "Year": 2006,
+    "Value": 38.56668601
+  },
+  {
+    "Code": "Russia",
+    "Year": 2007,
+    "Value": 35.6992254
+  },
+  {
+    "Code": "Russia",
+    "Year": 2008,
+    "Value": 34.8930479
+  },
+  {
+    "Code": "Russia",
+    "Year": 2009,
+    "Value": 32.19579595
+  },
+  {
+    "Code": "Russia",
+    "Year": 2010,
+    "Value": 31.87555782
+  },
+  {
+    "Code": "Russia",
+    "Year": 2011,
+    "Value": 29.31352467
+  },
+  {
+    "Code": "Russia",
+    "Year": 2012,
+    "Value": 28.42101224
+  },
+  {
+    "Code": "Russia",
+    "Year": 2013,
+    "Value": 27.75696353
+  },
+  {
+    "Code": "Russia",
+    "Year": 2014,
+    "Value": 28.01997006
+  },
+  {
+    "Code": "Russia",
+    "Year": 2015,
+    "Value": 26.62448443
+  },
+  {
+    "Code": "Russia",
+    "Year": 2016,
+    "Value": 25.3915076
+  },
+  {
+    "Code": "Russia",
+    "Year": 2017,
+    "Value": 25.08766881
+  },
+  {
+    "Code": "USA",
+    "Year": 1990,
+    "Value": 12.08029888
+  },
+  {
+    "Code": "USA",
+    "Year": 1991,
+    "Value": 12.04638374
+  },
+  {
+    "Code": "USA",
+    "Year": 1992,
+    "Value": 11.88076556
+  },
+  {
+    "Code": "USA",
+    "Year": 1993,
+    "Value": 12.11523172
+  },
+  {
+    "Code": "USA",
+    "Year": 1994,
+    "Value": 12.06290071
+  },
+  {
+    "Code": "USA",
+    "Year": 1995,
+    "Value": 11.99215691
+  },
+  {
+    "Code": "USA",
+    "Year": 1996,
+    "Value": 11.67699012
+  },
+  {
+    "Code": "USA",
+    "Year": 1997,
+    "Value": 11.40178532
+  },
+  {
+    "Code": "USA",
+    "Year": 1998,
+    "Value": 11.13184186
+  },
+  {
+    "Code": "USA",
+    "Year": 1999,
+    "Value": 10.9124433
+  },
+  {
+    "Code": "USA",
+    "Year": 2000,
+    "Value": 10.90979715
+  },
+  {
+    "Code": "USA",
+    "Year": 2001,
+    "Value": 11.08091862
+  },
+  {
+    "Code": "USA",
+    "Year": 2002,
+    "Value": 11.29645311
+  },
+  {
+    "Code": "USA",
+    "Year": 2003,
+    "Value": 11.3679889
+  },
+  {
+    "Code": "USA",
+    "Year": 2004,
+    "Value": 11.2549498
+  },
+  {
+    "Code": "USA",
+    "Year": 2005,
+    "Value": 11.50745188
+  },
+  {
+    "Code": "USA",
+    "Year": 2006,
+    "Value": 11.63334973
+  },
+  {
+    "Code": "USA",
+    "Year": 2007,
+    "Value": 11.67688939
+  },
+  {
+    "Code": "USA",
+    "Year": 2008,
+    "Value": 11.76439719
+  },
+  {
+    "Code": "USA",
+    "Year": 2009,
+    "Value": 11.83913442
+  },
+  {
+    "Code": "USA",
+    "Year": 2010,
+    "Value": 11.74792044
+  },
+  {
+    "Code": "USA",
+    "Year": 2011,
+    "Value": 11.94800226
+  },
+  {
+    "Code": "USA",
+    "Year": 2012,
+    "Value": 11.9966614
+  },
+  {
+    "Code": "USA",
+    "Year": 2013,
+    "Value": 12.03878533
+  },
+  {
+    "Code": "USA",
+    "Year": 2014,
+    "Value": 12.19317587
+  },
+  {
+    "Code": "USA",
+    "Year": 2015,
+    "Value": 12.50512334
+  },
+  {
+    "Code": "USA",
+    "Year": 2016,
+    "Value": 12.8414853
+  },
+  {
+    "Code": "USA",
+    "Year": 2017,
+    "Value": 12.83575668
+  }
+]
